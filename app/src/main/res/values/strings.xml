@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Colleges in UST</string>
+    <string-array name="colleges">
+        <item>Institute of Information and Computing Sciences</item>
+        <item>Faculty of Engineering</item>
+        <item>Faculty of Medicine</item>
+        <item>College of Architecture</item>
+        <item>College of Education</item>
+        <item>College of Rehabilitation Sciences</item>
+    </string-array>
+    <string-array name="buildings">
+        <item>Roque Ruaño Building</item>
+        <item>Roque Ruaño Building</item>
+        <item>Martin de Porres Building</item>
+        <item>Beato Angelico Building</item>
+        <item>Albertus Magnus Building</item>
+        <item>Martin de Porres Building</item>
+    </string-array>
+    <string-array name="patron_saints">
+        <item>St. Vincent Ferrer</item>
+        <item>Blessed Jordan of Saxony</item>
+        <item>Saints Cosmas and Damian</item>
+        <item>Thomas the Apostle</item>
+        <item>Saint Joseph of Calasanz</item>
+        <item>St. Martin de Porres</item>
+    </string-array>
+
+</resources>

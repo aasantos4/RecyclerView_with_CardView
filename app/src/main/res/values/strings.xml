@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Colleges in UST</string>
+    <string name="app_name">Colleges in UST (ver 2)</string>
     <string-array name="colleges">
         <item>Institute of Information and Computing Sciences</item>
         <item>Faculty of Engineering</item>
